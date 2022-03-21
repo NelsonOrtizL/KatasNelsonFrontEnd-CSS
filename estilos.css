@@ -1,0 +1,57 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+.miBoton{
+    background-color: #006aff;
+    color: white;
+}
+
+.titulo{
+    padding-top: 50px;
+    padding-left: 70px;
+    padding-right: 70px;
+    height: 35rem;
+}
+
+.titulo h1{
+    color: #006aff;
+    font-size: 5rem;
+    font-weight: 700;
+    font-family: 'Oswald', sans-serif;
+}
+
+.titulo p{
+    font-size: 2rem;
+}
+
+.titulo i{
+    margin-right: 10px;
+}
+
+.titulo .fa-shield-virus{
+    color: yellow;
+}
+
+.titulo .fa-star{
+    color: yellow;
+}
+
+.titulo .fa-clock{
+    color: #006aff;
+}
+
+.imagen-1 img{
+    width: 100%;
+    height: 35rem;
+}
+
+.patrocinadores{
+    margin-top: 1rem;
+    margin-left: 2rem;
+}
+
+.patrocinadores img{
+    width: 18rem;
+    margin-right: 20px;
+}
